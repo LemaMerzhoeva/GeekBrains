@@ -1,0 +1,15 @@
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.csproj.AssemblyReference.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.AssemblyInfoInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.AssemblyInfo.cs
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.csproj.CoreCompileInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\bin\Debug\net7.0\HW29.exe
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\bin\Debug\net7.0\HW29.deps.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\bin\Debug\net7.0\HW29.runtimeconfig.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\bin\Debug\net7.0\HW29.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\bin\Debug\net7.0\HW29.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\refint\HW29.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\HW29.genruntimeconfig.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW29\obj\Debug\net7.0\ref\HW29.dll

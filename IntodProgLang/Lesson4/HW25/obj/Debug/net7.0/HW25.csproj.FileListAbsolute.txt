@@ -1,0 +1,15 @@
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\bin\Debug\net7.0\HW25.exe
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\bin\Debug\net7.0\HW25.deps.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\bin\Debug\net7.0\HW25.runtimeconfig.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\bin\Debug\net7.0\HW25.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\bin\Debug\net7.0\HW25.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.csproj.AssemblyReference.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.AssemblyInfoInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.AssemblyInfo.cs
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.csproj.CoreCompileInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\refint\HW25.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\HW25.genruntimeconfig.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson4\HW25\obj\Debug\net7.0\ref\HW25.dll
