@@ -1,0 +1,15 @@
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.csproj.AssemblyReference.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.AssemblyInfoInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.AssemblyInfo.cs
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.csproj.CoreCompileInputs.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\bin\Debug\net7.0\HW43.exe
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\bin\Debug\net7.0\HW43.deps.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\bin\Debug\net7.0\HW43.runtimeconfig.json
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\bin\Debug\net7.0\HW43.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\bin\Debug\net7.0\HW43.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\refint\HW43.dll
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.pdb
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\HW43.genruntimeconfig.cache
+C:\Users\lmerzhoeva\Desktop\GB\IntodProgLang\Lesson6\HW43\obj\Debug\net7.0\ref\HW43.dll
