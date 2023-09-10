@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBHTable", "GBHTable\GBHTable.csproj", "{F35D1044-D374-49D0-A06B-8DB65FABEEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35D1044-D374-49D0-A06B-8DB65FABEEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35D1044-D374-49D0-A06B-8DB65FABEEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35D1044-D374-49D0-A06B-8DB65FABEEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35D1044-D374-49D0-A06B-8DB65FABEEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DAF1FBE-4593-48DD-BCB3-EBF7E0B58330}
+	EndGlobalSection
+EndGlobal
