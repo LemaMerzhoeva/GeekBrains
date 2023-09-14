@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лема\\Desktop\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj": {}
+    "C:\\Users\\Лема\\Desktop\\GeekBrains\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лема\\Desktop\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj": {
+    "C:\\Users\\Лема\\Desktop\\GeekBrains\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лема\\Desktop\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj",
+        "projectUniqueName": "C:\\Users\\Лема\\Desktop\\GeekBrains\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj",
         "projectName": "GBHTable",
-        "projectPath": "C:\\Users\\Лема\\Desktop\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj",
+        "projectPath": "C:\\Users\\Лема\\Desktop\\GeekBrains\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\GBHTable.csproj",
         "packagesPath": "C:\\Users\\Лема\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лема\\Desktop\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\obj\\",
+        "outputPath": "C:\\Users\\Лема\\Desktop\\GeekBrains\\GeekBrains\\AlgorStructData\\GBHTable\\GBHTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Лема\\AppData\\Roaming\\NuGet\\NuGet.Config",
