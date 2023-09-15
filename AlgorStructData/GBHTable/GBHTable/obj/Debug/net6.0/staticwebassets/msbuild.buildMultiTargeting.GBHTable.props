@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\GBHTable.props" />
-</Project>

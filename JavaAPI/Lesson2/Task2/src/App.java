@@ -21,5 +21,6 @@ public class App {
             fileWrite("Note2.txt", str);
             str = in.nextLine();
         }
+        in.close();
     }
 }
