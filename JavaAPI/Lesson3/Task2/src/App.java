@@ -1,9 +1,9 @@
-import java.io.Console;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 class BooksStore{
     public static ArrayList<Book> Books = new ArrayList<Book>();
+    public static Scanner sc = new Scanner(System.in);
 
     BooksStore(){
         System.out.println("Добро пожаловать в книжную лавку!");
@@ -17,12 +17,10 @@ class BooksStore{
         System.out.println("2.\tУдалить книгу");
         System.out.println("3.\tНайти книгу");
         System.out.println("4.\tВывести список всех книг");
-        Scanner sc = new Scanner(System.in);
         int numb = 0;
         if(sc.hasNextLine()){
             numb = sc.nextInt();
         }
-        sc.close();
         switch (numb) {
             case 1:
                 AddBook();
@@ -48,17 +46,16 @@ class BooksStore{
 
     public void AddBook(){
         System.out.println("Введите название книги: ");
-        Scanner sc_add = new Scanner(System.in);
         String title = "";
         int cost = 0;
-        if(sc_add.hasNextLine()){
-            title = sc_add.nextLine();
+        if(sc.hasNextLine()){
+            sc.nextLine();
+            title = sc.nextLine();
         }
         System.out.println("Введите стоимость книги: ");
-        if(sc_add.hasNextLine()){
-            cost = sc_add.nextInt();
+        if(sc.hasNextLine()){
+            cost = sc.nextInt();
         }
-        sc_add.close();
         AddBook(title, cost);
         
     }
@@ -79,27 +76,23 @@ class BooksStore{
         System.out.println("1.\tПо номеру в списке");
         System.out.println("2.\tПо названию");
         System.out.println("3.\tВернуться в основное меню");
-        Scanner sc = new Scanner(System.in);
         int numb = sc.nextInt();
-        sc.close();
         switch (numb) {
             case 1:
                 System.out.println("Выберите номер книги из списка");
+                PrintAllBooks();
                 int book_numb = 0;
-                Scanner sc2 = new Scanner(System.in);
                 if(sc.hasNextLine()){
                     book_numb = sc.nextInt() - 1;
                 }
-                sc2.close();
                 return RemoveBook(book_numb);
             case 2:
                 System.out.println("Введите название книги");
-                Scanner sc3 = new Scanner(System.in);
                 String title = "";
                 if(sc.hasNextLine()){
+                    sc.nextLine();
                     title = sc.nextLine();
                 }
-                sc3.close();
                 return RemoveBook(title);
             case 3:
                 Menu();
@@ -112,8 +105,9 @@ class BooksStore{
 
     private Book RemoveBook(String title){
         for (Book book : Books) {
-            if (title == book.Title){
+            if (title.equals(book.Title)){
                 Books.remove(book);
+                System.out.println("Книга с названием " + book.Title + " удалена");
                 return book;
             }
         }
@@ -141,18 +135,17 @@ class BooksStore{
 
     public Boolean FindBook(){
         System.out.print("Введите название книги: ");
-        Scanner sc = new Scanner(System.in);
         String title = "";
-        while(sc.hasNextLine()){
+        if (sc.hasNextLine()){
+            sc.nextLine();
             title = sc.nextLine();
-            sc.close();
         }
         return FindBook(title);
     }
 
     private Boolean FindBook(String title){
         for (Book book : Books) {
-            if (book.Title == title){
+            if (book.Title.equals(title)){
                 System.out.println("Книга с названием "+ title + " найдена");
                 return true;
             }
@@ -166,9 +159,9 @@ class BooksStore{
             System.out.println("Список книг пуст");
             return;
         }
-        int i = 0;
+        int i = 1;
         for (Book book : Books) {
-            System.out.println(i + ".\tTitle: " + book.Title + "  Cost: " + book.Cost);
+            System.out.println(i++ + ".\tTitle: " + book.Title + "  Cost: " + book.Cost);
         }
     }
 
@@ -197,37 +190,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         BooksStore booksStore = new BooksStore();
         booksStore.Menu();
-        // Book Alice_book = new Book("Alice in Wonderland", 500);
-        // booksStore.AddBook(Alice_book);
-        // booksStore.AddBook("The little prince", 700);
-        // booksStore.PrintAllBooks();
-
-        // System.out.println();
-
-        // booksStore.AddBook("1964", 1500);
-        // booksStore.PrintAllBooks();
-
-        // System.out.println();
-
-        // booksStore.FindBook("1964");
-        // booksStore.FindBook("1965");
-
-        // System.out.println();
-
-        // booksStore.RemoveBook(1);
-        // booksStore.PrintAllBooks();
-
-        // System.out.println();
-
-        // booksStore.RemoveBook("1964");
-        // booksStore.PrintAllBooks();
-
-        // System.out.println();
-
-        // Book book = new Book("Alice in Wonderland", 500);
-        // booksStore.RemoveBook(book);
-        // System.out.println("Итоговый список:");
-        // booksStore.PrintAllBooks();
 
     }
 }
