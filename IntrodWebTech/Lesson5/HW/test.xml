@@ -1,8 +1,8 @@
-<req>
-    <surname>Иванов</surname>
-    <name>Иван</name>
-    <patronymic>Иванович</patronymic>
+<user>
+    <surname>пїЅпїЅпїЅпїЅпїЅпїЅ</surname>
+    <name>пїЅпїЅпїЅпїЅ</name>
+    <patronymic>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</patronymic>
     <birthdate>01.01.1990</birthdate>
-    <birthplace>Москва</birthplace>
+    <birthplace>пїЅпїЅпїЅпїЅпїЅпїЅ</birthplace>
     <phone>8 926 766 48 48</phone>
-</req>
+</user>
