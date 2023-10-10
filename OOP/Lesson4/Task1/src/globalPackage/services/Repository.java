@@ -5,8 +5,8 @@ import java.util.List;
 
 public interface Repository<T, Tid> {
 
-    void add(T employee);
-    void edit(T employee);
+    void add(T item);
+    void edit(T item);
     void delete(Tid id);
 
     List<Employee> getAll();
