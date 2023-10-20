@@ -1,7 +1,7 @@
 package observer;
 
 public interface Observer {
-
-    void receiveOffer(String nameCompany, int salary);
+    boolean vacancyTypeCorrect(VacancyType type);
+    void receiveOffer(Vacancy vacancy);
 
 }

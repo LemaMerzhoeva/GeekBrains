@@ -10,9 +10,11 @@ public class JobAgency implements Publisher{
     List<Observer> observers = new ArrayList<>();
 
     @Override
-    public void sendOffer(String companyName, int salary) {
+    public void sendOffer(Vacancy vacancy) {
         for (Observer observer: observers){
-            observer.receiveOffer(companyName, salary);
+            if (observer.vacancyTypeCorrect(vacancy.getType()))
+                observer.receiveOffer(vacancy);
+            else System.out.printf("Данная вакансия [%s] не подходит соискателю [%s] по типу\n", vacancy, observer);
         }
     }
 

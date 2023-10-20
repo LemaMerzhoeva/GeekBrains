@@ -6,9 +6,9 @@ public class Program {
     public static void main(String[] args) {
 
         Publisher jobAgency = new JobAgency();
-        Company google = new Company("Google", jobAgency, 120000);
-        Company yandex = new Company("Yandex", jobAgency, 95000);
-        Company geekBrains = new Company("GeekBrains", jobAgency, 98000);
+        Company google = new Company("Google", jobAgency, 120000, VacancyType.experienced);
+        Company yandex = new Company("Yandex", jobAgency, 40000, VacancyType.beginner);
+        Company geekBrains = new Company("GeekBrains", jobAgency, 400000, VacancyType.professional);
 
         Student student1 = new Student("Студент #1");
         Master master1 = new Master("Мастер #1");
@@ -20,9 +20,11 @@ public class Program {
 
         for (int i = 0; i < 3; i++){
             google.needEmployee();
-            yandex.needEmployee();
-            geekBrains.needEmployee();
             System.out.println();
+            yandex.needEmployee();
+            System.out.println();
+            geekBrains.needEmployee();
+            System.out.println("______________________________________________________________________");
         }
 
     }
