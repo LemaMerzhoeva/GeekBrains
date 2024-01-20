@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lesson1": {
+      "commandName": "Project",
+      "commandLineArgs": "2 + 10"
+    }
+  }
+}
