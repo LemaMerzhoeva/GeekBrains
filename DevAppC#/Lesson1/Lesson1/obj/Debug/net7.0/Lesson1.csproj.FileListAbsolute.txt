@@ -1,0 +1,15 @@
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\bin\Debug\net7.0\Lesson1.exe
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\bin\Debug\net7.0\Lesson1.deps.json
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\bin\Debug\net7.0\Lesson1.runtimeconfig.json
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\bin\Debug\net7.0\Lesson1.dll
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\bin\Debug\net7.0\Lesson1.pdb
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.AssemblyInfo.cs
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.sourcelink.json
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.dll
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\refint\Lesson1.dll
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.pdb
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\Lesson1.genruntimeconfig.cache
+C:\Users\Лема\Desktop\GeekBrains\GeekBrains\DevAppC#\Lesson1\Lesson1\obj\Debug\net7.0\ref\Lesson1.dll
